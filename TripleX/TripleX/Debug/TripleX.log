@@ -1,0 +1,4 @@
+﻿  stupidTripleX.cpp
+D:\BayleyPersonalProjects\UnrealTripleX\TripleX\TripleX\stupidTripleX.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\BayleyPersonalProjects\UnrealTripleX\TripleX\TripleX\stupidTripleX.cpp(108): warning C4715: 'PlayGame': not all control paths return a value
+  TripleX.vcxproj -> D:\BayleyPersonalProjects\UnrealTripleX\TripleX\Debug\TripleX.exe
