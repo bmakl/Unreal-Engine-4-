@@ -1,4 +1,3 @@
-﻿  FBullCowGame.cpp
-  main.cpp
-  Generating Code...
+﻿  main.cpp
+D:\UE4Tutorials\Unreal-Engine-4-\Section_02\BullCowGame\main.cpp(98): warning C4715: 'GetValidGuess': not all control paths return a value
   BullCowGame.vcxproj -> D:\UE4Tutorials\Unreal-Engine-4-\Section_02\x64\Debug\BullCowGame.exe
