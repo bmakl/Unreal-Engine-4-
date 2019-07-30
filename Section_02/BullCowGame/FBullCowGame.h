@@ -43,7 +43,7 @@ public:
 	
 
 	//counts bulls and cows, increases try # assuming we have a valid guess
-	FBullCowCount SubmitGuess(FString guess);
+	FBullCowCount SubmitValidGuess(FString guess);
 	
 
 
@@ -53,4 +53,5 @@ private:
 	int32 MyCurrentTry; //see constructor
 	int32 MyMaxTries; //see constructor
 	FString MyHiddenWord;
+	bool bIsGameWon;
 };
